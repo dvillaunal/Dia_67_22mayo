@@ -1,0 +1,2 @@
+"Promedio.de.Lactosa.de.las.50.Producciones" | "Comparacion.de.Calorias.con.una.bolsa.estandar.de.leche"
+50174 | "La Producción Numero:  52 , Tiene la tasa más cercana al promedio de calorias con una desviación del:  3.943"
